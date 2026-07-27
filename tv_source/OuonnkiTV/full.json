@@ -91,6 +91,20 @@
     "isEnabled": true
   },
   {
+    "id": "1080zyk4-com",
+    "name": "优质资源",
+    "url": "https://api.yzzy-api.com/inc/apijson.php",
+    "detailUrl": "https://1080zyk4.com",
+    "isEnabled": true
+  },
+  {
+    "id": "www-huyaapi-com",
+    "name": "虎牙资源",
+    "url": "https://www.huyaapi.com/api.php/provide/vod",
+    "detailUrl": "https://www.huyaapi.com",
+    "isEnabled": true
+  },
+  {
     "id": "91md-me",
     "name": "麻豆视频",
     "url": "https://91md.me/api.php/provide/vod",
@@ -200,13 +214,6 @@
     "name": "滴滴资源",
     "url": "https://api.ddapi.cc/api.php/provide/vod",
     "detailUrl": "https://didizy.com",
-    "isEnabled": true
-  },
-  {
-    "id": "heiliaozy-cc",
-    "name": "黑料资源",
-    "url": "https://www.heiliaozyapi.com/api.php/provide/vod",
-    "detailUrl": "https://heiliaozy.cc",
     "isEnabled": true
   },
   {
