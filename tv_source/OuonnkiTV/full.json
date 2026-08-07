@@ -1,16 +1,9 @@
 [
   {
-    "id": "ikunzy-com",
-    "name": "iKun资源",
-    "url": "https://ikunzyapi.com/api.php/provide/vod",
-    "detailUrl": "https://ikunzy.com",
-    "isEnabled": true
-  },
-  {
-    "id": "dyttzyapi-com",
-    "name": "电影天堂",
-    "url": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-    "detailUrl": "http://caiji.dyttzyapi.com",
+    "id": "iqiyizyapi-com",
+    "name": "爱奇艺",
+    "url": "https://iqiyizyapi.com/api.php/provide/vod",
+    "detailUrl": "https://iqiyizyapi.com",
     "isEnabled": true
   },
   {
@@ -119,6 +112,13 @@
     "isEnabled": true
   },
   {
+    "id": "Naixxzy-com",
+    "name": "奶香资源",
+    "url": "https://Naixxzy.com/api.php/provide/vod",
+    "detailUrl": "https://Naixxzy.com",
+    "isEnabled": true
+  },
+  {
     "id": "apilj-com",
     "name": "辣椒资源",
     "url": "https://apilj.com/api.php/provide/vod",
@@ -158,6 +158,13 @@
     "name": "桃花资源",
     "url": "https://thzy1.me/api.php/provide/vod",
     "detailUrl": "https://thzy8.me",
+    "isEnabled": true
+  },
+  {
+    "id": "www-jingpinx-com",
+    "name": "精品资源",
+    "url": "https://www.jingpinx.com/api.php/provide/vod",
+    "detailUrl": "https://www.jingpinx.com",
     "isEnabled": true
   },
   {
