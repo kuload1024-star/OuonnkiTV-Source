@@ -119,6 +119,13 @@
     "isEnabled": true
   },
   {
+    "id": "www-jingpinx-com",
+    "name": "精品资源",
+    "url": "https://www.jingpinx.com/api.php/provide/vod",
+    "detailUrl": "https://www.jingpinx.com",
+    "isEnabled": true
+  },
+  {
     "id": "ckzy-me",
     "name": "CK-资源",
     "url": "https://ckzy.me/api.php/provide/vod",
