@@ -1,5 +1,12 @@
 [
   {
+    "id": "iqiyizyapi-com",
+    "name": "爱奇艺",
+    "url": "https://iqiyizyapi.com/api.php/provide/vod",
+    "detailUrl": "https://iqiyizyapi.com",
+    "isEnabled": true
+  },
+  {
     "id": "ikunzy-com",
     "name": "iKun资源",
     "url": "https://ikunzyapi.com/api.php/provide/vod",
@@ -123,13 +130,6 @@
     "name": "豆豆资源",
     "url": "https://api.douapi.cc/api.php/provide/vod",
     "detailUrl": "https://doudouzy.com",
-    "isEnabled": true
-  },
-  {
-    "id": "heiliaozy-cc",
-    "name": "黑料资源",
-    "url": "https://www.heiliaozyapi.com/api.php/provide/vod",
-    "detailUrl": "https://heiliaozy.cc",
     "isEnabled": true
   },
   {

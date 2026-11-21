@@ -21,6 +21,13 @@
     "isEnabled": true
   },
   {
+    "id": "iqiyizyapi-com",
+    "name": "爱奇艺",
+    "url": "https://iqiyizyapi.com/api.php/provide/vod",
+    "detailUrl": "https://iqiyizyapi.com",
+    "isEnabled": true
+  },
+  {
     "id": "www-moduzy-net",
     "name": "魔都资源",
     "url": "https://www.mdzyapi.com/api.php/provide/vod",
