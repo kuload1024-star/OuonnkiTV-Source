@@ -7,6 +7,13 @@
     "isEnabled": true
   },
   {
+    "id": "iqiyizyapi-com",
+    "name": "爱奇艺",
+    "url": "https://iqiyizyapi.com/api.php/provide/vod",
+    "detailUrl": "https://iqiyizyapi.com",
+    "isEnabled": true
+  },
+  {
     "id": "ikunzy-com",
     "name": "iKun资源",
     "url": "https://ikunzyapi.com/api.php/provide/vod",
@@ -21,10 +28,24 @@
     "isEnabled": true
   },
   {
-    "id": "iqiyizyapi-com",
-    "name": "爱奇艺",
-    "url": "https://iqiyizyapi.com/api.php/provide/vod",
-    "detailUrl": "https://iqiyizyapi.com",
+    "id": "lzizy-net",
+    "name": "量子影视",
+    "url": "https://cj.lziapi.com/api.php/provide/vod",
+    "detailUrl": "https://lzizy.net",
+    "isEnabled": true
+  },
+  {
+    "id": "bfzy-tv",
+    "name": "暴风资源",
+    "url": "https://bfzyapi.com/api.php/provide/vod",
+    "detailUrl": "https://bfzy.tv",
+    "isEnabled": true
+  },
+  {
+    "id": "cj-lzcaiji-com",
+    "name": "量子资源",
+    "url": "https://cj.lzcaiji.com/api.php/provide/vod",
+    "detailUrl": "https://cj.lzcaiji.com",
     "isEnabled": true
   },
   {
