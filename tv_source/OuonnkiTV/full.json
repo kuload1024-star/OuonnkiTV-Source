@@ -7,10 +7,10 @@
     "isEnabled": true
   },
   {
-    "id": "ikunzy-com",
-    "name": "iKun资源",
-    "url": "https://ikunzyapi.com/api.php/provide/vod",
-    "detailUrl": "https://ikunzy.com",
+    "id": "cj-lzcaiji-com",
+    "name": "量子资源",
+    "url": "https://cj.lzcaiji.com/api.php/provide/vod",
+    "detailUrl": "https://cj.lzcaiji.com",
     "isEnabled": true
   },
   {
@@ -18,6 +18,13 @@
     "name": "魔都资源",
     "url": "https://www.mdzyapi.com/api.php/provide/vod",
     "detailUrl": "https://www.moduzy.net",
+    "isEnabled": true
+  },
+  {
+    "id": "bfzy-tv",
+    "name": "暴风资源",
+    "url": "https://bfzyapi.com/api.php/provide/vod",
+    "detailUrl": "https://bfzy.tv",
     "isEnabled": true
   },
   {
